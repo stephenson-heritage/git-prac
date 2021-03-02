@@ -1,0 +1,8 @@
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.gallery img {
+    width: 40vw;
+}
