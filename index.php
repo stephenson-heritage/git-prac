@@ -16,7 +16,7 @@ require_once("inc/config/config.php");
 </head>
 
 <body>
-    body
+    body - test
     <?php
 
 
